@@ -45,31 +45,6 @@ public class Emprunt {
         return Title;
     }
 
-    public void setTitle(String title) {
-        Title = title;
-    }
 
-    public String getLastName() {
-        return lastName;
-    }
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
-
-    public Date getEmpruntDate() {
-        return empruntDate;
-    }
-
-    public void setEmpruntDate(Date empruntDate) {
-        this.empruntDate = empruntDate;
-    }
-
-    public Date getRetourDate() {
-        return retourDate;
-    }
-
-    public void setRetourDate(Date retourDate) {
-        this.retourDate = retourDate;
-    }
+    
 }
